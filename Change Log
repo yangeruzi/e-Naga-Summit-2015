@@ -16,3 +16,10 @@ v2.0 (23.04.2015)
 -- added content for SUMMIT Page
 -- added content for Venue Page
 -- Version Closed --
+
+v3.0 (24.04.2015)
+-- renamed Navbar Focus to Summit
+-- fixed issue opening of index.html when clicking Home Tab in Nav Bar
+-- fixed broken links on all pages
+-- created venue page with embedded GMaps and Accuweather widget
+-- added links to Offical Nagaland Tourism Department website for accomodation section
