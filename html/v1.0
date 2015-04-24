@@ -1,0 +1,587 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="shortcut icon" href="assets/ico/favicon.ico">
+
+    <title>e-Naga Summit 2015</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+
+
+    <!-- Just for debugging purposes. Don't actually copy this line! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    <script src="assets/js/modernizr.js"></script>
+  </head>
+
+  <body
+			
+
+    <!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="index.html">e-Naga Summit 2015</a>
+        </div>
+        <div class="navbar-collapse collapse navbar-right">
+          <ul class="nav navbar-nav">
+                    <li class="active"><a href="#">Home</a></li>
+                    <li class="dropdown">
+                        <a class="dropdown-toggle" style="color:black;" data-toggle="dropdown" href="#">SUMMIT
+                        <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li style="color:black;"><a href="#">Objectives</a></li>
+                            <li><a href="#">Key Themes</a></li>
+                            <li><a href="#">Participants</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="#">Focus</a></li>
+                    <li><a href="#">Register</a></li>
+                    <li><a href="#">About</a></li>
+
+                </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>
+
+	<!-- *****************************************************************************************************************
+	 HEADERWRAP
+	 ***************************************************************************************************************** -->
+	<div id="headerwrap">
+	    <div class="container">
+			<div class="row">
+				<!-- <div class="col-lg-8 col-lg-offset-2">
+					<h3>Welcome to the first e-Naga Summit 2015</h3>
+					<h2>"Ideas and Solutions to transform North East India through ITC"</h2>
+					<h5>The Department of Information Technology and Communication</h5>
+					<h5> Government of Nagaland</h5>				
+				</div> -->
+				<div class="col-lg-12 "> <!-- col-lg-offset-1 himg-->
+					
+					<!--<img src="assets/img/browser.png" class="img-responsive"></img -->
+					
+					<!--Slider-->
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarousel" data-slide-to="1"></li>
+                        <li data-target="#myCarousel" data-slide-to="2"></li>
+                        <li data-target="#myCarousel" data-slide-to="3"></li>
+						<li data-target="#myCarousel" data-slide-to="4"></li>
+						<li data-target="#myCarousel" data-slide-to="5"></li>
+						<li data-target="#myCarousel" data-slide-to="6"></li>
+					 </ol>
+
+                    <!-- Wrapper for slides -->
+					
+					<div class="carousel-inner" role="listbox">
+                        <div class="item active">
+                            <img src="assets/img/slide-7.jpg" alt="" >
+                        </div>
+
+                    <div class="item">
+                            <img src="assets/img/slide-1.jpg" alt="" >
+                        </div>
+
+                        <div class="item">
+                            <img src="assets/img/slide-2.jpg" alt="">
+                        </div>
+
+                        <div class="item">
+                            <img src="assets/img/slide-3.jpg" alt="">
+                        </div>
+
+                        <div class="item">
+                            <img src="assets/img/slide-4.jpg" alt="">
+                        </div>
+						
+						<div class="item">
+                            <img src="assets/img/slide-5.jpg" alt="">
+                        </div>
+						
+						<div class="item">
+                            <img src="assets/img/slide-6.jpg" alt="">
+                        </div>
+                    </div>
+
+                    <!-- Left and right controls -->
+                    <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+		</div><!-- /row -->
+	</div> <!-- /container -->
+</div><!-- /headerwrap -->
+	
+	
+	<!-- *****************************************************************************************************************
+	 Social Media plugins and primary content
+	 ***************************************************************************************************************** -->
+	 <div id="service">
+	 	<div class="container">
+ 			<div class="row centered">
+ 				<div class="col-md-4">
+<!--  					<h3>Facebook</h3> -->
+							
+							<div class="fb-page" data-href="https://www.facebook.com/pages/ENagaSummit/1583145975295925" data-width="400" data-height="250" data-hide-cover="false" data-show-facepile="false" data-show-posts="true">
+								<div class="fb-xfbml-parse-ignore">
+									<blockquote cite="https://www.facebook.com/facebook">
+										<a href="https://www.facebook.com/facebook">Facebook</a>
+									</blockquote>
+								</div>
+							</div>
+				</div>
+ 				<div class="col-md-8">
+ 					<h3>e-Naga Summit 2015</h3>
+					
+ 					<p style="text-align:justify;">With the advent of Digital India under which e-Governance initiatives will play a key role to transform the country with increased transparency, efficient and cost effective public service delivery and 		providing better access, equity & social empowerment to our citizens.
+
+					Our country is witnessing a paradigm shift in Governance, Commerce, Media and all other spheres of life where Information Technology and electronic media is playing a  transformative role towards building a knowledge–led economy. The world is looking up to India to drive the global economic growth and India is looking east towards the North Eastern States with the Look East Policy promising an opportunity to open our eastern corridors towards South East Asia and boost economic growth and progress. It is time for the North Eastern States to unleash our potential by networking, collaborating and initiating innovative solutions by focussing on ICT as an enabler for radical transformation.
+					</p>
+ 				</div>
+				<div class="row centered">
+					<div class="col-md-8">
+					<p style="text-align:justify;">The Department of Information Technology and Communication, Government of Nagaland has taken the initiative to organize the ‘e-Naga Summit’ starting from this year with the objective to bring together Entrepreneurs, Academia, Industry and Government under one roof. This summit is envisioned to build the foundation required to identify our existing gaps, incubate ideas and devise solutions specific to the needs of the North-East region which will ultimately lead to progress and prosperity of the nation as a whole.
+
+					‘Ideas and Solutions to Transform North-East India’ has been selected as the theme for the e-Naga Summit 2015. The theme has been broadly selected for participants and resource persons to analyse and identify the root cause of the challenges and issues faced in the North-East which will help the forum to ideate and bring out practical solutions to bring about a radical transformation in the region.
+					</p>
+					</div>
+					<div class="col-md-4">
+						<!-- <h4>Twitter</h4> -->
+						
+						<a class="twitter-timeline" href="https://twitter.com/enagasummit" data-widget-id="590783181600591873" width="400" height="250">Tweets by @enagasummit</a>
+							<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";			fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+							</script>
+					</div>
+				</div>
+	 		</div>
+	 	</div><! --/container -->
+	 </div><! --/service -->
+
+	<!-- *****************************************************************************************************************
+	 SERVICE LOGOS & SOCIAL MEDIA SECTION
+	 ***************************************************************************************************************** -->
+	 <div id="service">
+	 	<div class="container">
+ 			<div class="row centered">
+ 				<div class="col-md-4">
+ 					<i class="fa fa-heart-o"></i>
+ 					<h3>Venue</h3>
+ 					<p><h2>15th May 2015</h2></p>
+					<p><h4>NBCC Convention Center</p>
+					<p>Below Civil Secretariat</p>
+					<p>Kohima Nagaland .</p></h4>
+ 					<p><br/><a href="#" class="btn btn-theme">More Info</a></p>
+ 				</div>
+ 				<div class="col-md-4">
+ 					<i class="fa fa-flask"></i>
+ 					<h3>Key Themes</h3>
+					<p></p><p></p>
+ 					<p>INFRASTUCTURE, SOFTWARE TECHNOLOGY PARKS, EDUCATION, BUSSINESS PROCESS OUTSOURCING, ENTREPRENEURSHIP, WOMEN EMPOWERMENT, ENHANCING PRODUCTIVITY<br></br></p>
+ 					<p><br/><a href="#" class="btn btn-theme">More Info</a></p>
+ 				</div>
+ 				<div class="col-md-4">
+ 					<i class="fa fa-trophy"></i>
+ 					<h4>Awards</h4>
+ 					<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a gal.<br></br></p>
+ 					<p><br/><a href="#" class="btn btn-theme">More Info</a></p>
+ 				</div>		 				
+	 		</div>
+	 	</div><! --/container -->
+	 </div><! --/service -->
+	 
+	 <!-- *****************************************************************************************************************
+	 TESTIMONIALS
+	 ***************************************************************************************************************** -->
+	 <div id="twrap">
+	 	<div class="container centered">
+	 		<div class="row">
+	 			<div class="col-lg-8 col-lg-offset-2">
+	 			<i class="fa fa-comment-o"></i>
+	 			<p style="color:black;">"Youth belonging to the IT profession have paved the way for establishing India's new identity in the world. Digital India is our dream for the nation. When I say 'digital India' it is not meant for the rich but for those who are poor,"</p>
+				<p style="color:black;">"e-governance is easy governance, effective governance and economical governance. E-governance is way to good governance. There was a time when it was said that Railway unites the country. I say, today IT has the power to unite the country and its people,"</p>
+	 			<h4 style="color:white;"><br/>Shri. Narendra Modi</h4>
+	 			<p style="color:black;">Hon'ble Prime Minister of India'</p>
+	 			</div>
+	 		</div><! --/row -->
+	 	</div><! --/container -->
+	 </div><! --/twrap -->
+	 
+	 <!-- *****************************************************************************************************************
+	 MIDDLE CONTENT
+	 ***************************************************************************************************************** -->
+
+	 <div class="container mtb">
+	 	<div class="row">
+	 		<div class="col-lg-4 col-lg-offset-1">
+		 		<h4>More About US</h4>
+		 		<p>The Department of Information Technology was created during November 2003. The Department was created with a view to promote the use of Information Technology (IT) and act as a promoter/facilitator in the field of Information Technology in the state and build an IT interface with the rest of the country and the world. With a view to introduce flexibility and dynamism and to incorporate IT tools for imparting technical education, the technical education sector was transferred and merged with the department of IT on 1st October 2004 </p>
+ 				<p><br/><a href="about.html" class="btn btn-theme">More Info</a></p>
+	 		</div>
+	 		
+	 		<div class="col-lg-3">
+	 			<h4>Frequently Asked</h4>
+	 			<div class="hline"></div>
+	 			<p><a href="#">Who are the Panelists?</a></p>
+	 			<p><a href="#">How to get to the Summit?</a></p>
+	 			<p><a href="#">What is this summit all about?</a></p>
+	 			<p><a href="#">Is this a State Level Summit?</a></p>
+	 			<p><a href="#">Who are the targetted participants?</a></p>
+	 		</div>
+	 		
+	 		<div class="col-lg-3">
+	 			<h4>Latest Posts</h4>
+	 			<div class="hline"></div>
+	 			<p><a href="single-post.html">Our new site is live now.</a></p>
+	 			<p><a href="single-post.html">Retina ready is not an option.</a></p>
+	 			<p><a href="single-post.html">Bootstrap 3 framework is the best.</a></p>
+	 			<p><a href="single-post.html">You need a site, contact us</a></p>
+	 			<p><a href="single-post.html">We build dreams overnight.</a></p>
+	 		</div>
+	 		
+	 	</div><! --/row -->
+	 </div><! --/container -->
+	 
+	 
+	<!-- *****************************************************************************************************************
+	 SPONSPORS SECTION
+	 ***************************************************************************************************************** -->
+	 <div id="portfoliowrap">
+        <h3>OUR SPONSORS &amp; PARTNERS </h3>
+
+        <div class="portfolio-centered">
+            <div class="recentitems portfolio">
+				<div class="portfolio-item graphic-design">
+					<div class="he-wrap tpl6">
+					<img src="assets/img/portfolio/np.jpg" alt="">
+						<div class="he-view">
+							<div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Nagaland Post</h3>
+                                <a data-rel="prettyPhoto" href="assets/img/portfolio/np.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
+                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                        	</div><!-- he bg -->
+						</div><!-- he view -->		
+					</div><!-- he wrap -->
+				</div><!-- end col-12 -->
+                            
+                <div class="portfolio-item web-design">
+                    <div class="he-wrap tpl6">
+					<img src="assets/img/portfolio/aircel.png" alt="">
+						<div class="he-view">
+							<div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Aircel</h3>
+                                <a data-rel="prettyPhoto" href="assets/img/portfolio/aircel.png" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
+                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                        	</div><!-- he bg -->
+						</div><!-- he view -->		
+					</div><!-- he wrap -->
+				</div><!-- end col-12 -->
+        
+                <div class="portfolio-item graphic-design">
+                    <div class="he-wrap tpl6">
+					<img src="assets/img/portfolio/me.jpg" alt="">
+						<div class="he-view">
+							<div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">The Morung Express</h3>
+                                <a data-rel="prettyPhoto" href="assets/img/portfolio/me.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
+                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                        	</div><!-- he bg -->
+						</div><!-- he view -->		
+					</div><!-- he wrap -->
+				</div><!-- end col-12 -->
+        
+                <div class="portfolio-item graphic-design">
+                    <div class="he-wrap tpl6">
+					<img src="assets/img/portfolio/airtel.jpg" alt="">
+						<div class="he-view">
+							<div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Airtel</h3>
+                                <a data-rel="prettyPhoto" href="assets/img/portfolio/airtel.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
+                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                        	</div><!-- he bg -->
+						</div><!-- he view -->		
+					</div><!-- he wrap -->
+				</div><!-- end col-12 -->
+                                        
+                <div class="portfolio-item books">
+                    <div class="he-wrap tpl6">
+					<img src="assets/img/portfolio/npg.jpg" alt="">
+						<div class="he-view">
+							<div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">Nagaland Page</h3>
+                                <a data-rel="prettyPhoto" href="assets/img/portfolio/npg.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
+                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                        	</div><!-- he bg -->
+						</div><!-- he view -->		
+					</div><!-- he wrap -->
+				</div><!-- end col-12 -->
+                                        
+                <div class="portfolio-item graphic-design">
+                    <div class="he-wrap tpl6">
+					<img src="assets/img/portfolio/portfolio_06.jpg" alt="">
+						<div class="he-view">
+							<div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">A Graphic Design Item</h3>
+                                <a data-rel="prettyPhoto" href="assets/img/portfolio/portfolio_06.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
+                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                        	</div><!-- he bg -->
+						</div><!-- he view -->		
+					</div><!-- he wrap -->
+				</div><!-- end col-12 -->
+                    
+                <div class="portfolio-item books">
+                    <div class="he-wrap tpl6">
+					<img src="assets/img/portfolio/portfolio_07.jpg" alt="">
+						<div class="he-view">
+							<div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">A Book Design Item</h3>
+                                <a data-rel="prettyPhoto" href="assets/img/portfolio/portfolio_07.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
+                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                        	</div><!-- he bg -->
+						</div><!-- he view -->		
+					</div><!-- he wrap -->
+				</div><!-- end col-12 -->
+                    
+                <div class="portfolio-item graphic-design">
+                    <div class="he-wrap tpl6">
+					<img src="assets/img/portfolio/portfolio_08.jpg" alt="">
+						<div class="he-view">
+							<div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">A Graphic Design Item</h3>
+                                <a data-rel="prettyPhoto" href="assets/img/portfolio/portfolio_08.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
+                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                        	</div><!-- he bg -->
+						</div><!-- he view -->		
+					</div><!-- he wrap -->
+				</div><!-- end col-12 -->
+                                        
+                <div class="portfolio-item web-design">
+                    <div class="he-wrap tpl6">
+					<img src="assets/img/portfolio/portfolio_01.jpg" alt="">
+						<div class="he-view">
+							<div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">A Web Design Item</h3>
+                                <a data-rel="prettyPhoto" href="assets/img/portfolio/portfolio_01.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
+                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                        	</div><!-- he bg -->
+						</div><!-- he view -->		
+					</div><!-- he wrap -->
+				</div><!-- end col-12 -->
+    
+			<div class="portfolio-item books">
+                <div class="he-wrap tpl6">
+					<img src="assets/img/portfolio/portfolio_10.jpg" alt="">
+						<div class="he-view">
+							<div class="bg a0" data-animate="fadeIn">
+                                <h3 class="a1" data-animate="fadeInDown">A Book Design Item</h3>
+                                <a data-rel="prettyPhoto" href="assets/img/portfolio/portfolio_10.jpg" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-search"></i></a>
+                                <a href="single-project.html" class="dmbutton a2" data-animate="fadeInUp"><i class="fa fa-link"></i></a>
+                        	</div><!-- he bg -->
+						</div><!-- he view -->		
+					</div><!-- he wrap -->
+				</div><!-- end col-12 -->
+                    
+            </div><!-- portfolio -->
+        </div><!-- portfolio container -->
+	 </div><!--/Portfoliowrap -->
+	 
+	 
+	
+	
+	<!-- *****************************************************************************************************************
+	 OUR CLIENTS
+	 ***************************************************************************************************************** -->
+	 <div id="cwrap">
+		 <div class="container">
+		 	<div class="row centered">
+			 	<h3>OUR CLIENTS</h3>
+			 	<div class="col-lg-3 col-md-3 col-sm-3">
+			 		<img src="assets/img/clients/client01.png" class="img-responsive">
+			 	</div>
+			 	<div class="col-lg-3 col-md-3 col-sm-3">
+			 		<img src="assets/img/clients/client02.png" class="img-responsive">
+			 	</div>
+			 	<div class="col-lg-3 col-md-3 col-sm-3">
+			 		<img src="assets/img/clients/client03.png" class="img-responsive">
+			 	</div>
+			 	<div class="col-lg-3 col-md-3 col-sm-3">
+			 		<img src="assets/img/clients/client04.png" class="img-responsive">
+			 	</div>
+		 	</div><! --/row -->
+		 </div><! --/container -->
+	 </div><! --/cwrap -->
+
+	<!-- *****************************************************************************************************************
+	 FOOTER
+	 ***************************************************************************************************************** -->
+	 <div id="footerwrap">
+	 	<div class="container">
+		 	<div class="row">
+		 		<div class="col-lg-4">
+		 			<h4>About</h4>
+		 			<div class="hline-w"></div>
+		 			<p>Designed and maintained by BLACKTIE.CO - Web Team NSeGS</p>
+					<p>(C)APRIL 2015</p>
+		 		</div>
+		 		<div class="col-lg-4">
+		 			<h4>Social Links</h4>
+		 			<div class="hline-w"></div>
+		 			<p>
+		 				<a href="#"><i class="fa fa-dribbble"></i></a>
+		 				<a href="#"><i class="fa fa-facebook"></i></a>
+		 				<a href="#"><i class="fa fa-twitter"></i></a>
+		 				<a href="#"><i class="fa fa-instagram"></i></a>
+		 				<a href="#"><i class="fa fa-tumblr"></i></a>
+		 			</p>
+		 		</div>
+		 		<div class="col-lg-4">
+		 			<h4>Our Bunker</h4>
+		 			<div class="hline-w"></div>
+		 			<p>
+		 				DIT&amp;C,<br/>
+		 				Thizama Road,<br/>
+		 				Kohima.<br/>
+		 			</p>
+		 		</div>
+		 	
+		 	</div><! --/row -->
+	 	</div><! --/container -->
+	 </div><! --/footerwrap -->
+	 
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+	<!-- <script src="assets/js/jquery.min.js"></script> -->
+    <script src="assets/js/bootstrap.min.js"></script>
+	<script src="assets/js/retina-1.1.0.js"></script>
+	<script src="assets/js/jquery.hoverdir.js"></script>
+	<script src="assets/js/jquery.hoverex.min.js"></script>
+	<script src="assets/js/jquery.prettyPhoto.js"></script>
+  	<script src="assets/js/jquery.isotope.min.js"></script>
+  	<script src="assets/js/custom.js"></script>
+
+
+    <script>
+// Portfolio
+(function($) {
+	"use strict";
+	var $container = $('.portfolio'),
+		$items = $container.find('.portfolio-item'),
+		portfolioLayout = 'fitRows';
+		
+		if( $container.hasClass('portfolio-centered') ) {
+			portfolioLayout = 'masonry';
+		}
+				
+		$container.isotope({
+			filter: '*',
+			animationEngine: 'best-available',
+			layoutMode: portfolioLayout,
+			animationOptions: {
+			duration: 750,
+			easing: 'linear',
+			queue: false
+		},
+		masonry: {
+		}
+		}, refreshWaypoints());
+		
+		function refreshWaypoints() {
+			setTimeout(function() {
+			}, 1000);   
+		}
+				
+		$('nav.portfolio-filter ul a').on('click', function() {
+				var selector = $(this).attr('data-filter');
+				$container.isotope({ filter: selector }, refreshWaypoints());
+				$('nav.portfolio-filter ul a').removeClass('active');
+				$(this).addClass('active');
+				return false;
+		});
+		
+		function getColumnNumber() { 
+			var winWidth = $(window).width(), 
+			columnNumber = 1;
+		
+			if (winWidth > 1200) {
+				columnNumber = 5;
+			} else if (winWidth > 950) {
+				columnNumber = 4;
+			} else if (winWidth > 600) {
+				columnNumber = 3;
+			} else if (winWidth > 400) {
+				columnNumber = 2;
+			} else if (winWidth > 250) {
+				columnNumber = 1;
+			}
+				return columnNumber;
+			}       
+			
+			function setColumns() {
+				var winWidth = $(window).width(), 
+				columnNumber = getColumnNumber(), 
+				itemWidth = Math.floor(winWidth / columnNumber);
+				
+				$container.find('.portfolio-item').each(function() { 
+					$(this).css( { 
+					width : itemWidth + 'px' 
+				});
+			});
+		}
+		
+		function setPortfolio() { 
+			setColumns();
+			$container.isotope('reLayout');
+		}
+			
+		$container.imagesLoaded(function () { 
+			setPortfolio();
+		});
+		
+		$(window).on('resize', function () { 
+		setPortfolio();          
+	});
+})(jQuery);
+</script>
+<!----------------- FACEBOOK SCRIPT ----------------->
+			<div id="fb-root"></div>
+			  <script>(function(d, s, id) {
+			  var js, fjs = d.getElementsByTagName(s)[0];
+			  if (d.getElementById(id)) return;
+			  js = d.createElement(s); js.id = id;
+			  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3";
+			  fjs.parentNode.insertBefore(js, fjs);
+			}(document, 'script', 'facebook-jssdk'));</script>
+
+  </body>
+</html>
